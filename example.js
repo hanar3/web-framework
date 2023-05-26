@@ -1,7 +1,3 @@
-
-
-
-
 function TodoItem(props) {
     let value = createSignal(props.text);
 
